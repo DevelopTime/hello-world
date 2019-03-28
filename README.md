@@ -1,2 +1,2 @@
 # hello-world
-First Repository on GitHub
+Looking forward to learning Python.
